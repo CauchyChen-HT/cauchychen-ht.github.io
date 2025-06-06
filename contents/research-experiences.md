@@ -1,4 +1,4 @@
--<strong>Master thesis: Heat Transfer Characteristics of Spray-Coupled Capillary-Wick Flat Plate Heat Pipe and Fuel Cell Thermal Management Applications</strong>                                                                                                    
-	-Structural optimization of flat plate heat pipe based on numerical model and NSGA-Ⅱ algorithm.
-	-Experimental investigation of the enhanced heat and mass transfer effects in a flat-plate heat pipe based on spray coupling and magnetofluid interaction.
-	-Optimization and design of composite thermal management system for PEMFC stacks.
+1 Master thesis: Heat Transfer Characteristics of Spray-Coupled Capillary-Wick Flat Plate Heat Pipe and Fuel Cell Thermal Management Applications                                                                                                  
+(1)Structural optimization of flat plate heat pipe based on numerical model and NSGA-Ⅱ algorithm.
+(2)Experimental investigation of the enhanced heat and mass transfer effects in a flat-plate heat pipe based on spray coupling and magnetofluid interaction.
+(3)Optimization and design of composite thermal management system for PEMFC stacks.
