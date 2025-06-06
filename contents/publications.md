@@ -1,12 +1,9 @@
 - <strong>Chen, K.</strong>, Tang, A.*, Pan, J., Cai, T., et al. (2024). Experimental study on heat transfer characteristics and capillary-assisted enhancement of dual-phase immersion battery thermal management system. <strong>Energy Conversion and Management</strong>. doi:10.1016/j.enconman.2024.119149. (JCR Q1, IF 9.9, <strong>Accept</strong> ). [[Paper]](https://doi.org/10.1016/j.enconman.2024.119149)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.enconman.2024.119149)
+- <strong>Chen, K.</strong>, Li, J., Xiang, J., Tang, A.*, Cai, T., et al. (2025). Experimental Study of Air-Source Heat Pump Integrated with Steel-Wool-Enhanced Phase Change Heat Storage.  <strong>Building and Environment</strong>. (JCR Q1, IF 7.1, <strong>Under Review</strong>)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong>Chen, K.</strong>, Jiang, W., Tang, A., Cai, T., et al. (2025). Study on the Synergistic Effects of Compressor Speed and Refrigerant Charge in R744 Transcritical Refrigeration Cycle. <strong>Applied Thermal Engineering</strong>. (JCR Q1, IF 6.1, <strong>Under Review</strong>)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Cai, T., <strong>Chen, K.</strong>, Tang, A.*. (2025). Insights into Ignition, Flame Propagation, and Emission Characteristics of Ammonia/Hydrogen Combustion under Intermediate-to-High Temperatures and High Pressures. <strong>Chemical Engineering Journal</strong>. (JCR Q1, IF 13.4, <strong>Under Review</strong>)
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- Li, J., Tang, A.*, Jin, Y., Cai, T., & <strong>Chen, K.</strong>. (2025). Construction of Electrostatically Self-assembled Pomelo Peel/Carbon Nanotube Aerogel and the Modulation of Thermal Performance in Composite Phase Change Material. <strong>Journal of Energy Storage.</strong>. (JCR Q1, IF 8.9, <strong>Under Review</strong>)
